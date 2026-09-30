@@ -1,13 +1,12 @@
 # Resume
 
-My resume, plus the certificate for my L&T EduTech summer internship.
+**My current resume is linked from [abhyudaytomar.com](https://abhyudaytomar.com)** (or [open it directly](https://drive.google.com/file/d/1pRn_HSHa3M7DMqFeYI8h26wXufjTNeal/view?usp=drive_link)).
+
+This repository also keeps the certificate from my L&T EduTech summer internship:
 
 | File | Contents |
 |------|----------|
-| [`resume.pdf`](resume.pdf) | Resume (uploaded March 2026) |
 | [`L and T Certificate.pdf`](L%20and%20T%20Certificate.pdf) | Certificate in AI & Edge Computing for Industry Applications, L&T EduTech (22 May – 7 July 2025, grade A) |
-
-**The latest version of my resume is always linked from [abhyudaytomar.com](https://abhyudaytomar.com).**
 
 ## Contact
 
